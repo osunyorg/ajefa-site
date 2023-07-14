@@ -5,4 +5,8 @@ items:
   target: https://www.facebook.com/ajefa.paris/
   kind: url
   children: []
+- title: Instagram
+  target: https://www.instagram.com/ajefa.paris/
+  kind: url
+  children: []
 
