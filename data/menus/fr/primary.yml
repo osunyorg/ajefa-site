@@ -5,4 +5,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Les écoles
+  target: "/fr/les-ecoles/"
+  kind: page
+  children: []
 
