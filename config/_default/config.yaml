@@ -8,5 +8,5 @@ params:
   summary:
     position: hero
   logo:
-    header: "/assets/images/ajefa.png"
-    footer: "/assets/images/ajefa.png"
+    header: "/assets/images/ajefa-horizontal.png"
+    footer: "/assets/images/ajefa-horizontal.png"
