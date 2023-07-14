@@ -21,8 +21,8 @@ items:
     target: "/fr/lassociation/"
     kind: page
     children:
-    - title: Présentation
-      target: "/fr/lassociation/"
+    - title: Organisation interne
+      target: "/fr/lassociation/organisation-interne/"
       kind: page
       children: []
 - title: Actualités
