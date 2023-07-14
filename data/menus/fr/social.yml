@@ -1,4 +1,8 @@
 ---
 title: Liens sociaux
-items: []
+items:
+- title: Facebook
+  target: https://www.facebook.com/ajefa.paris/
+  kind: url
+  children: []
 
