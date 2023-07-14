@@ -1,14 +1,18 @@
 ---
 title: Menu principal
 items:
-- title: Les écoles
-  target: "/fr/les-ecoles/"
-  kind: page
+- title: Je suis un parent
+  target: ''
+  kind: blank
   children:
-  - title: La Kinder-école
-    target: "/fr/les-ecoles/la-kinder-ecole/"
+  - title: Les écoles
+    target: "/fr/les-ecoles/"
     kind: page
-    children: []
+    children:
+    - title: La Kinder-école
+      target: "/fr/les-ecoles/la-kinder-ecole/"
+      kind: page
+      children: []
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
@@ -20,9 +24,5 @@ items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
-  children: []
-- title: Je suis un parent
-  target: ''
-  kind: blank
   children: []
 
