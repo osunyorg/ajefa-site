@@ -13,14 +13,18 @@ items:
       target: "/fr/les-ecoles/la-kinder-ecole/"
       kind: page
       children: []
-- title: L'association
-  target: "/fr/lassociation/"
-  kind: page
+- title: Je suis partenaire
+  target: ''
+  kind: blank
   children:
-  - title: Présentation
+  - title: L'association
     target: "/fr/lassociation/"
     kind: page
-    children: []
+    children:
+    - title: Présentation
+      target: "/fr/lassociation/"
+      kind: page
+      children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
