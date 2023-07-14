@@ -8,5 +8,9 @@ items:
 - title: Les écoles
   target: "/fr/les-ecoles/"
   kind: page
-  children: []
+  children:
+  - title: La Kinder-école
+    target: "/fr/les-ecoles/la-kinder-ecole/"
+    kind: page
+    children: []
 
