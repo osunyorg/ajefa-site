@@ -12,7 +12,11 @@ items:
 - title: L'association
   target: "/fr/lassociation/"
   kind: page
-  children: []
+  children:
+  - title: Présentation
+    target: "/fr/lassociation/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
