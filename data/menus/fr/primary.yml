@@ -21,4 +21,8 @@ items:
   target: "/fr/actualites/"
   kind: page
   children: []
+- title: Je suis un parent
+  target: ''
+  kind: blank
+  children: []
 
