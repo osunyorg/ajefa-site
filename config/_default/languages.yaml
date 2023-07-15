@@ -6,9 +6,17 @@ de:
   languageCode: de
   languageName: Deutsch
   permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
 fr:
   title: Ajefa
   contentDir: content/fr
   languageCode: fr
   languageName: Français
   permalinks:
+    categories: /actualites/:slug/
+    posts: /actualites/:year-:month-:day-:slug/
+    persons: /equipe/:slug/
+    authors: /equipe/:slug/actualites/
