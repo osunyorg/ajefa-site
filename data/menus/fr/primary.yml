@@ -13,6 +13,8 @@ items:
       target: "/fr/les-ecoles/la-kinder-ecole/"
       kind: page
       children: []
+      file: content/fr/pages/les-ecoles/la-kinder-ecole/_index.html
+    file: content/fr/pages/les-ecoles/_index.html
 - title: Je suis partenaire
   target: ''
   kind: blank
@@ -25,8 +27,11 @@ items:
       target: "/fr/lassociation/organisation-interne/"
       kind: page
       children: []
+      file: content/fr/pages/lassociation/organisation-interne/_index.html
+    file: content/fr/pages/lassociation/_index.html
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
