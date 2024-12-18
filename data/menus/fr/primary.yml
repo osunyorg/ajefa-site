@@ -4,14 +4,17 @@ items:
 - title: Je suis un parent
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: Les écoles
     target: "/fr/les-ecoles/"
     kind: page
+    new_tab: false
     children:
     - title: La Kinder-école
       target: "/fr/les-ecoles/la-kinder-ecole/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/les-ecoles/la-kinder-ecole"
       file: content/fr/pages/les-ecoles/la-kinder-ecole/_index.html
@@ -20,14 +23,17 @@ items:
 - title: Je suis partenaire
   target: ''
   kind: blank
+  new_tab: false
   children:
   - title: L'association
     target: "/fr/lassociation/"
     kind: page
+    new_tab: false
     children:
     - title: Organisation interne
       target: "/fr/lassociation/organisation-interne/"
       kind: page
+      new_tab: false
       children: []
       path: "/pages/lassociation/organisation-interne"
       file: content/fr/pages/lassociation/organisation-interne/_index.html
@@ -36,6 +42,7 @@ items:
 - title: Actualités
   target: "/fr/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html

@@ -4,9 +4,11 @@ items:
 - title: Facebook
   target: https://www.facebook.com/ajefa.paris/
   kind: url
+  new_tab: true
   children: []
 - title: Instagram
   target: https://www.instagram.com/ajefa.paris/
   kind: url
+  new_tab: true
   children: []
 
