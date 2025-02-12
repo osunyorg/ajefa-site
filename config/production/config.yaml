@@ -2,6 +2,11 @@
 
 baseURL: https://ajefa.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 3971dcc9-b2a8-4f9a-8b06-5a22261a562f
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: true
