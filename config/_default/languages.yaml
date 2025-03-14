@@ -6,6 +6,7 @@ fr:
   contentDir: content/fr
   languageCode: fr
   languageName: Français
+  buildFuture: true
   params:
     contact_details:
 
@@ -37,6 +38,7 @@ de:
   contentDir: content/de
   languageCode: de
   languageName: Deutsch
+  buildFuture: true
   params:
     contact_details:
 
