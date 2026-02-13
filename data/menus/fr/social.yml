@@ -2,13 +2,17 @@
 title: Liens sociaux
 items:
 - title: Facebook
+  slug: facebook
   target: https://www.facebook.com/ajefa.paris/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 - title: Instagram
+  slug: instagram
   target: https://www.instagram.com/ajefa.paris/
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 

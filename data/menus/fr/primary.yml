@@ -2,48 +2,68 @@
 title: Menu principal
 items:
 - title: Je suis un parent
+  slug: je-suis-un-parent
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: Les écoles
+    slug: les-ecoles
     target: "/fr/les-ecoles/"
     kind: page
     new_tab: false
     children:
     - title: La Kinder-école
+      slug: la-kinder-ecole
       target: "/fr/les-ecoles/la-kinder-ecole/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/les-ecoles/la-kinder-ecole"
       file: content/fr/pages/les-ecoles/la-kinder-ecole/_index.html
+    descendants_targets:
+    - "/fr/les-ecoles/la-kinder-ecole/"
     path: "/pages/les-ecoles"
     file: content/fr/pages/les-ecoles/_index.html
+  descendants_targets:
+  - "/fr/les-ecoles/"
+  - "/fr/les-ecoles/la-kinder-ecole/"
 - title: Je suis partenaire
+  slug: je-suis-partenaire
   target: ''
   kind: blank
   new_tab: false
   children:
   - title: L'association
+    slug: l-association
     target: "/fr/lassociation/"
     kind: page
     new_tab: false
     children:
     - title: Organisation interne
+      slug: organisation-interne
       target: "/fr/lassociation/organisation-interne/"
       kind: page
       new_tab: false
       children: []
+      descendants_targets: []
       path: "/pages/lassociation/organisation-interne"
       file: content/fr/pages/lassociation/organisation-interne/_index.html
+    descendants_targets:
+    - "/fr/lassociation/organisation-interne/"
     path: "/pages/lassociation"
     file: content/fr/pages/lassociation/_index.html
+  descendants_targets:
+  - "/fr/lassociation/"
+  - "/fr/lassociation/organisation-interne/"
 - title: Actualités
+  slug: actualites
   target: "/fr/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 
